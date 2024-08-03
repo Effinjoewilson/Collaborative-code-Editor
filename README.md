@@ -17,7 +17,10 @@ The project consists of two main parts:
 
 ## Setup and Running
 
-1. Extract the contents of the zip file to a directory on your computer.
+1. Clone the Repository
+    ```bash
+    git clone https://github.com/Effinjoewilson/Collaborative-code-Editor.git
+    ```
 
 2. Open a terminal and navigate to the server directory:
     ```bash
