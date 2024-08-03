@@ -24,7 +24,7 @@ The project consists of two main parts:
 
 2. Open a terminal and navigate to the server directory:
     ```bash
-    cd Collaborative-Code-Editor/server
+    cd Collaborative-code-Editor/server
     ```
 
 3. Install the necessary dependencies:
@@ -41,7 +41,7 @@ The project consists of two main parts:
 
 6. Navigate to the client directory:
     ```bash
-    cd Collaborative-Code-Editor/client
+    cd Collaborative-code-Editor/client
     ```
 
 7. Install the necessary dependencies:
